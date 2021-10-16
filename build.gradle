@@ -33,6 +33,18 @@ test {
     }
 }
 
+jar {
+    manifest {
+        attributes (
+            'Main-Class': 'app.FEM'
+        )
+    }
+}
+
+javadoc {
+    options.encoding = 'UTF-8'
+}
+
 checkstyle {
     toolVersion = '9.0'
     configFile = file('checkstyle.xml')
