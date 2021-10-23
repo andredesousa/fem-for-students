@@ -2454,7 +2454,7 @@ public class UserInterface extends javax.swing.JFrame {
         );
 
         jPanel4.setBackground(new java.awt.Color(57, 57, 57));
-        jPanel4.setPreferredSize(new java.awt.Dimension(0, 25));
+        jPanel4.setPreferredSize(new java.awt.Dimension(0, 26));
 
         menuDraw.setBackground(new java.awt.Color(236, 236, 236));
         menuDraw.setFont(new java.awt.Font("Tahoma", 1, 10)); // NOI18N
@@ -2592,7 +2592,7 @@ public class UserInterface extends javax.swing.JFrame {
                 .createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addComponent(jLabel11, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel12, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(menuView, javax.swing.GroupLayout.DEFAULT_SIZE, 25, Short.MAX_VALUE)
+                .addComponent(menuView, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel13, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(menuGeometry, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
